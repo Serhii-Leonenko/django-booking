@@ -1,0 +1,29 @@
+# folders
+venv/
+env/
+.idea/
+__pycache__/
+static_prod/
+/files/img/
+# files
+*.sqlite
+*.sqlite3
+*.py[cod]
+*$py.class
+.env
+*.log
+*.json
+*.txt
+_.py
+#*.png
+*.mp4
+*.jpg
+*.jpeg
+*.sh
+*.xlsx
+qr.png
+*.docx
+*.pdf
+.DS_Store
+files/
+

@@ -1,0 +1,16 @@
+[
+  {"model": "db.table", "pk": 1, "fields": {"name": "Table 1"}},
+  {"model": "db.table", "pk": 2, "fields": {"name": "Table 2"}},
+  {"model": "db.table", "pk": 3, "fields": {"name": "Table 3"}},
+  {"model": "db.table", "pk": 4, "fields": {"name": "Table 4"}},
+  {"model": "db.table", "pk": 5, "fields": {"name": "Table 5"}},
+
+  {"model": "db.booking", "pk": 1, "fields": {"table": 1, "date": "2026-03-25T10:00:00", "client_name": "Alice Smith", "client_phone": "+380501234561"}},
+  {"model": "db.booking", "pk": 2, "fields": {"table": 2, "date": "2026-03-25T10:00:00", "client_name": "Bob Johnson", "client_phone": "+380501234562"}},
+  {"model": "db.booking", "pk": 3, "fields": {"table": 3, "date": "2026-03-25T12:00:00", "client_name": "Charlie Williams", "client_phone": "+380501234563"}},
+  {"model": "db.booking", "pk": 4, "fields": {"table": 1, "date": "2026-03-25T14:00:00", "client_name": "Diana Brown", "client_phone": "+380501234564"}},
+  {"model": "db.booking", "pk": 5, "fields": {"table": 4, "date": "2026-03-25T14:00:00", "client_name": "Eve Jones", "client_phone": "+380501234565"}},
+  {"model": "db.booking", "pk": 6, "fields": {"table": 2, "date": "2026-03-25T18:00:00", "client_name": "Frank Garcia", "client_phone": "+380501234566"}},
+  {"model": "db.booking", "pk": 7, "fields": {"table": 5, "date": "2026-03-26T10:00:00", "client_name": "Grace Miller", "client_phone": "+380501234567"}},
+  {"model": "db.booking", "pk": 8, "fields": {"table": 3, "date": "2026-03-26T14:00:00", "client_name": "Henry Davis", "client_phone": "+380501234568"}}
+]
