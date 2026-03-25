@@ -14,7 +14,7 @@ python manage.py runserver
 A fixture with initial tables is included. Load it with:
 
 ```bash
-python manage.py loaddata tables
+python manage.py loaddata seed
 ```
 
 ---

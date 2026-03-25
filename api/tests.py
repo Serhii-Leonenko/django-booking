@@ -1,10 +1,13 @@
 import datetime
+import logging
 
 from django.test import TestCase
 from django.urls import reverse
 from rest_framework.test import APIClient
 
 from db.models import Booking, Table
+
+logging.disable(logging.CRITICAL)
 
 
 class TableTests(TestCase):
